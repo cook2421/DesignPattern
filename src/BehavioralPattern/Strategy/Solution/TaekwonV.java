@@ -1,0 +1,7 @@
+package BehavioralPattern.Strategy.Solution;
+
+public class TaekwonV extends Robot {
+    public TaekwonV(String name){
+        super(name);
+    }
+}
