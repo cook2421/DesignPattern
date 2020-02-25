@@ -1,25 +1,25 @@
-package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton;
+package CreationalPattern.FactoryMethod.Solution4_Inheritance;
 
 import BehavioralPattern.TemplateMethod.Context.Direction;
 
-/* 싱글턴 패턴으로 구현한 ThroughputScheduler 클래스 */
-public class ThroughputScheduler implements ElevatorScheduler {
+/* 싱글턴 패턴으로 구현한 ResponseTimeScheduler 클래스 */
+public class ResponseTimeScheduler implements ElevatorScheduler {
 
     private static ElevatorScheduler scheduler;
 
     // 생성자를 private으로 정의
-    private ThroughputScheduler(){}
+    private ResponseTimeScheduler() {}
 
     // 정적 메서드로 객체 생성을 구현 (싱글턴 패턴)
-    public static ElevatorScheduler getInstance() {
+    public static ElevatorScheduler getInstance(){
         if(scheduler == null){
-            scheduler = new ThroughputScheduler();
+            scheduler = new ResponseTimeScheduler();
         }
         return scheduler;
     }
 
     @Override
     public int selectElevator(ElevatorManager manager, int destination, Direction direction){
-        return 0;   // 임의로 선택함
+        return 1;     // 임의로 선택함
     }
 }
