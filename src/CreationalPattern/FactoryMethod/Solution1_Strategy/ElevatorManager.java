@@ -1,4 +1,4 @@
-package CreationalPattern.FactoryMethod.Solution1;
+package CreationalPattern.FactoryMethod.Solution1_Strategy;
 
 import BehavioralPattern.TemplateMethod.Context.Direction;
 import CreationalPattern.FactoryMethod.Context.ElevatorController;

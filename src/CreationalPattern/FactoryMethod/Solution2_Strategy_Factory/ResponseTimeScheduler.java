@@ -1,4 +1,4 @@
-package CreationalPattern.FactoryMethod.Solution1;
+package CreationalPattern.FactoryMethod.Solution2_Strategy_Factory;
 
 import BehavioralPattern.TemplateMethod.Context.Direction;
 
