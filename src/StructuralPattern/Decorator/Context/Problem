@@ -1,0 +1,16 @@
+1. 또 다른 도로 표시 기능을 추가로 구현하는 경우
+    * 기본 도로 표시에 교통량을 표시하고 싶다면?
+
+2. 여러가지 추가 기능을 조합해야 하는 경우
+    * 기본 도로 표시에 차선 표시 기능과 교통량 표시 기능을 함께 제공하고 싶다면?
+        - RoadDisplay
+        - RoadDisplayWithLane
+        - RoadDisplayWithTraffic
+        - RoadDisplayWithCrossing
+        - RoadDisplayWithLaneTraffic
+        - RoadDisplayWithLaneCrossing
+        - RoadDisplayWithTrafficCrossing
+        - RoadDisplayWithLaneTrafficCrossing
+
+-> 다양한 기능의 조합을 고려해야 하는 경우 상속을 통한 기능의 확장은
+   각 기능별로 클래스를 추가해야 한다는 단점이 있다.

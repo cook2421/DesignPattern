@@ -2,18 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/ComputerDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Solution1_Composite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Solution2_Composite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/DataSheetView1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/DataSheetView2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/MinMaxView1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/MinMaxView2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/Problem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/ScoreRecord1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/ScoreRecord2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Context/ScoreRecord3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Observer-Pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/DataSheetView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/MinMaxView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/ScoreRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/Solution1_Observer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Context/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Context/Problem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Context/RoadDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Context/RoadDisplayWithLane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Context/RoadDisplayWithTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Decorator-Pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/CrossingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/DisplayDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/LaneDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/RoadDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Solution1_Decorator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Solution2_Decorator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/TrafficDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution_TemplateMethod1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution_TemplateMethod2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Alarm/Alarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Alarm/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Alarm/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Lamp/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Lamp/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Lamp/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/LampAndAlarm/Alarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/LampAndAlarm/Button$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/LampAndAlarm/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/LampAndAlarm/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/LampAndAlarm/Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Problem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/Alarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/AlarmStartCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command/LampOnCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Command/Solution_Command2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/Problem" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +73,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,19 +93,20 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution" />
+      <recent name="$PROJECT_DIR$/src/BehavioralPattern/Observer" />
+      <recent name="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution" />
+      <recent name="$PROJECT_DIR$/src/StructuralPattern/Decorator" />
+      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
       <recent name="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton" />
       <recent name="CreationalPattern.FactoryMethod.Solution2" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution3_Strategy_Factory_Singleton" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -71,52 +121,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Composite.Context.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Composite.Context.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Composite.Solution.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Composite.Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.Client" />
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Solution.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.*" />
+          <option name="PATTERN" value="BehavioralPattern.Observer.Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client1" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Context.Client1" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BehavioralPattern.Observer.Context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Context.Client2" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BehavioralPattern.Observer.Context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client2" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client3" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,10 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client2 (1)" />
+        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Client1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +226,7 @@
       <workItem from="1582622444323" duration="10000" />
       <workItem from="1582691108593" duration="74000" />
       <workItem from="1582691561136" duration="32000" />
+      <workItem from="1582721544725" duration="7781000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
