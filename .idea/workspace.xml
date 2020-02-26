@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/Problem1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/FactoryMethod_Pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ResponseTimeScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ThroughputScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Problem3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulingStrategyID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Solution2_FactoryMethod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ResponseTimeScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/SchedulerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Solution3_FactoryMethod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ThroughputScheduler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/Problem" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/Problem2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1/ElevatorScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1/ResponseTimeScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ResponseTimeScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1/Solution1_FactoryMethod.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/Solution1_FactoryMethod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ThroughputScheduler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -129,7 +104,10 @@
       <updated>1582550127263</updated>
       <workItem from="1582550128760" duration="251000" />
       <workItem from="1582589002122" duration="1792000" />
-      <workItem from="1582602406637" duration="3027000" />
+      <workItem from="1582602406637" duration="3095000" />
+      <workItem from="1582622444323" duration="10000" />
+      <workItem from="1582691108593" duration="74000" />
+      <workItem from="1582691561136" duration="32000" />
     </task>
     <servers />
   </component>
