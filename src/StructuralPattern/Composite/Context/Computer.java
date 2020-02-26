@@ -4,6 +4,7 @@ public class Computer {
     private Keyboard keyboard;
     private Body body;
     private Monitor monitor;
+    private Speaker speaker;  // 추가
 
     public void addKeyboard(Keyboard keyboard) {
         this.keyboard = keyboard;
@@ -17,17 +18,21 @@ public class Computer {
         this.monitor = monitor;
     }
 
+    public void addSpeaker(Speaker speaker) { this.speaker = speaker; }  // 추가
+
     public int getPrice() {
         int keyboardPrice = keyboard.getPrice();
         int bodyPrice = body.getPrice();
         int monitorPrice = monitor.getPrice();
-        return keyboardPrice + bodyPrice + monitorPrice;
+        int speakerPrice = speaker.getPrice();  // 추가
+        return keyboardPrice + bodyPrice + monitorPrice + speakerPrice;
     }
 
     public int getPower() {
         int keyboardPower = keyboard.getPower();
         int bodyPower = body.getPower();
         int monitorPower = monitor.getPower();
-        return keyboardPower + bodyPower + monitorPower;
+        int speakerPower = speaker.getPower();  // 추가
+        return keyboardPower + bodyPower + monitorPower + speakerPower;
     }
 }
