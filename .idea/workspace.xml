@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/ComputerDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Solution1_Composite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Solution/Solution2_Composite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Decorator_Pattern.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Context/Computer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,23 +30,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/api-product" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DesignPattern\src\StructuralPattern\Decorator" />
+      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
+      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution3_Strategy_Factory_Singleton" />
       <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
+      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
       <recent name="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton" />
       <recent name="CreationalPattern.FactoryMethod.Solution2" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution3_Strategy_Factory_Singleton" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -149,6 +140,7 @@
       <workItem from="1582622444323" duration="10000" />
       <workItem from="1582691108593" duration="74000" />
       <workItem from="1582691561136" duration="32000" />
+      <workItem from="1582705326444" duration="96000" />
     </task>
     <servers />
   </component>
