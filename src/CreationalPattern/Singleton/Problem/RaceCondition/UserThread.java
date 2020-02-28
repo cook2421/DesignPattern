@@ -1,4 +1,4 @@
-package CreationalPattern.Singleton.Context.RaceCondition;
+package CreationalPattern.Singleton.Problem.RaceCondition;
 
 public class UserThread extends Thread {
 

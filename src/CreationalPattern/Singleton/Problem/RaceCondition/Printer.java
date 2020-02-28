@@ -1,9 +1,11 @@
-package CreationalPattern.Singleton.Context.RaceCondition;
+package CreationalPattern.Singleton.Problem.RaceCondition;
 
 public class Printer {
 
     // 외부에 제공할 자기 자신의 인스턴스
     private static Printer printer = null;
+
+    private int counter = 0;   // 1개의 Printer 인스턴스가 유지해야할 변수 (스레드 경합 시 문제됨)
 
     private Printer() {}
 
@@ -23,6 +25,7 @@ public class Printer {
     }
 
     public void print(String str){
-        System.out.println(str);
+        counter++;  // 카운터 값 증가
+        System.out.println(str + " 카운터값 : " + counter);
     }
 }

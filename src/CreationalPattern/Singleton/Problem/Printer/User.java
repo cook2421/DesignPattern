@@ -1,4 +1,4 @@
-package CreationalPattern.Singleton.Context.Printer;
+package CreationalPattern.Singleton.Problem.Printer;
 
 public class User {
 

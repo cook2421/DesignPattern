@@ -6,13 +6,14 @@ public class MotorFactory {
     public static Motor createMotor(VendorID vendorID){
 
         Motor motor = null;
+        Door door = null;
 
         switch (vendorID){
             case LG:
-                motor = new LGMotor();
+                motor = new LGMotor(door);
                 break;
             case HYUNDAI:
-                motor = new HyundaiMotor();
+                motor = new HyundaiMotor(door);
                 break;
         }
 
