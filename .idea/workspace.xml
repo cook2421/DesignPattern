@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/DoorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/HyundaiDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/LGDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/MotorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/VendorID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/HyundaiMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/LGMotor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Door.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +32,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/api-product" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\StructuralPattern\Decorator" />
-      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution3_Strategy_Factory_Singleton" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CreationalPattern.AbstractFactory.Context" />
       <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
@@ -180,7 +168,8 @@
       <workItem from="1582691108593" duration="74000" />
       <workItem from="1582691561136" duration="32000" />
       <workItem from="1582721544725" duration="7781000" />
-      <workItem from="1582773048582" duration="3740000" />
+      <workItem from="1582773048582" duration="3773000" />
+      <workItem from="1582858504199" duration="934000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
