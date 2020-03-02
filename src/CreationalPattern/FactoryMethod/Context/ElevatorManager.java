@@ -1,6 +1,6 @@
 package CreationalPattern.FactoryMethod.Context;
 
-import BehavioralPattern.TemplateMethod.Context.Direction;
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
 
 import java.util.ArrayList;
 import java.util.List;

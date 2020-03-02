@@ -1,9 +1,9 @@
 package BehavioralPattern.TemplateMethod.Solution.Inheritance;
 
-import BehavioralPattern.TemplateMethod.Context.Direction;
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
 import BehavioralPattern.TemplateMethod.Context.Door;
-import BehavioralPattern.TemplateMethod.Context.DoorStatus;
-import BehavioralPattern.TemplateMethod.Context.MotorStatus;
+import BehavioralPattern.TemplateMethod.Context.Enums.DoorStatus;
+import BehavioralPattern.TemplateMethod.Context.Enums.MotorStatus;
 
 public abstract class Motor {
     protected Door door;

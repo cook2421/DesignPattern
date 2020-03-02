@@ -1,6 +1,6 @@
 package CreationalPattern.AbstractFactory.Context;
 
-import BehavioralPattern.TemplateMethod.Context.DoorStatus;
+import BehavioralPattern.TemplateMethod.Context.Enums.DoorStatus;
 
 public abstract class Door {
     private DoorStatus doorStatus;
