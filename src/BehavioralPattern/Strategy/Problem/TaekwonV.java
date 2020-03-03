@@ -1,4 +1,4 @@
-package BehavioralPattern.Strategy.Context;
+package BehavioralPattern.Strategy.Problem;
 
 public class TaekwonV extends Robot {
 

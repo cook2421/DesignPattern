@@ -1,5 +1,9 @@
 package BehavioralPattern.TemplateMethod.Context;
 
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Context.Enums.DoorStatus;
+import BehavioralPattern.TemplateMethod.Context.Enums.MotorStatus;
+
 public class HyundaiMotor {
     private Door door;
     private MotorStatus motorStatus;

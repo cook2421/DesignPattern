@@ -1,6 +1,6 @@
 package CreationalPattern.AbstractFactory.Context;
 
-import BehavioralPattern.TemplateMethod.Context.Direction;
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
 
 public class HyundaiMotor extends Motor {
 

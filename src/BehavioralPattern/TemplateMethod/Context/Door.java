@@ -1,5 +1,7 @@
 package BehavioralPattern.TemplateMethod.Context;
 
+import BehavioralPattern.TemplateMethod.Context.Enums.DoorStatus;
+
 public class Door {
     private DoorStatus doorStatus;
 

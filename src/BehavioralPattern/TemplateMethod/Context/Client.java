@@ -1,5 +1,7 @@
 package BehavioralPattern.TemplateMethod.Context;
 
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+
 public class Client {
     public static void main(String[] args) {
         Door door = new Door();

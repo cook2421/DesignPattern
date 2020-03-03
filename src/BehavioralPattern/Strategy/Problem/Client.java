@@ -1,4 +1,4 @@
-package BehavioralPattern.Strategy.Context;
+package BehavioralPattern.Strategy.Problem;
 
 public class Client {
     public static void main(String[] args) {

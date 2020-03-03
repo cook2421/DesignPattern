@@ -1,6 +1,6 @@
 package CreationalPattern.FactoryMethod.Solution2_Strategy_Factory;
 
-import BehavioralPattern.TemplateMethod.Context.Direction;
+import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
 import CreationalPattern.FactoryMethod.Context.ElevatorController;
 
 import java.util.ArrayList;
