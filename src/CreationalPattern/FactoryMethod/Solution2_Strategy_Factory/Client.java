@@ -1,6 +1,7 @@
 package CreationalPattern.FactoryMethod.Solution2_Strategy_Factory;
 
-import BehavioralPattern.TemplateMethod.Context.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.Scheduler.SchedulingStrategyID;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="" />
+    <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +30,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/api-product" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatternEx" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BehavioralPattern.State.Solution" />
+      <recent name="BehavioralPattern.State.Problem" />
+      <recent name="CreationalPattern.AbstractFactory.Context" />
+      <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
+      <recent name="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cooks\Downloads\DesignPattern\src\CreationalPattern\AbstractFactory" />
       <recent name="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution" />
       <recent name="$PROJECT_DIR$/src/BehavioralPattern/Observer" />
       <recent name="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution" />
       <recent name="$PROJECT_DIR$/src/StructuralPattern/Decorator" />
-      <recent name="D:\DesignPattern\src\StructuralPattern\Composite\Solution" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
-      <recent name="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton" />
-      <recent name="CreationalPattern.FactoryMethod.Solution2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\CreationalPattern\FactoryMethod\Solution2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,12 +62,51 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.TemplateMethod.Solution.Inheritance.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BehavioralPattern.TemplateMethod.Solution.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Problem.Printer.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPattern.Singleton.Problem.Printer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.static_class.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.static_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Solution.Client" />
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.Problem.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Observer.Solution.*" />
+          <option name="PATTERN" value="BehavioralPattern.State.SleepingState.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client1" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
+          <option name="PATTERN" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,51 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Context.Client1" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Problem.Printer.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Observer.Context.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Context.Client2" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Observer.Context.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client2" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client3" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
+          <option name="PATTERN" value="CreationalPattern.Singleton.Problem.Printer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client2 (1)" />
-        <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.Client3" />
-        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,19 @@
       <workItem from="1582622444323" duration="10000" />
       <workItem from="1582691108593" duration="74000" />
       <workItem from="1582691561136" duration="32000" />
-      <workItem from="1582721544725" duration="7925000" />
+      <workItem from="1582721544725" duration="7781000" />
+      <workItem from="1582773048582" duration="3773000" />
+      <workItem from="1582858504199" duration="7524000" />
+      <workItem from="1583122599697" duration="3525000" />
+      <workItem from="1583137451342" duration="690000" />
+      <workItem from="1583139655727" duration="339000" />
+      <workItem from="1583209152234" duration="841000" />
+      <workItem from="1583219669770" duration="100000" />
+      <workItem from="1583295818183" duration="546000" />
+      <workItem from="1583311846731" duration="110000" />
+      <workItem from="1583312317240" duration="17000" />
+      <workItem from="1583312384966" duration="76000" />
+      <workItem from="1583369115479" duration="12187000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
