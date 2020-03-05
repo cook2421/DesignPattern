@@ -2,9 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Alarm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Alarm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Alarm/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Lamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/Lamp/Lamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Alarm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Alarm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Button$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Button$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Lamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Lamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Command/Context/LampAndAlarm/Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Atom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Atom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/AttackStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/AttackStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/FlyingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/FlyingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MissileStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MissileStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MovingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MovingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/PunchStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/PunchStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/TaekwonV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/TaekwonV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/WalkingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/WalkingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/Door.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/DoorStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/HyundaiMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/HyundaiMotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Context/MotorStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ElevatorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ElevatorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ResponseTimeScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ResponseTimeScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ThroughputScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ThroughputScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ResponseTimeScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ResponseTimeScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulerFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulerFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulingStrategyID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/SchedulingStrategyID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ThroughputScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ThroughputScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ResponseTimeScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ResponseTimeScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/SchedulerFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/SchedulerFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/SchedulerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/SchedulerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ThroughputScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ThroughputScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Eager_Initialization/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Eager_Initialization/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Enum_class/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Enum_class/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/UserThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/static_class/UserThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Synchronized/BasicSynchronization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Synchronized/BasicSynchronization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ElevatorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +123,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (4)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.TemplateMethod.Solution.Inheritance.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BehavioralPattern.TemplateMethod.Solution.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Problem.RaceCondition.Client" />
       <module name="DesignPattern" />
@@ -90,38 +163,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.static_class.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.static_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.Problem.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BehavioralPattern.State.SleepingState.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.Context.Client1" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Observer.Context.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client3" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Strategy.Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,24 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
@@ -187,6 +235,12 @@
       <workItem from="1583137451342" duration="690000" />
       <workItem from="1583139655727" duration="339000" />
       <workItem from="1583209152234" duration="841000" />
+      <workItem from="1583219669770" duration="100000" />
+      <workItem from="1583295818183" duration="546000" />
+      <workItem from="1583311846731" duration="110000" />
+      <workItem from="1583312317240" duration="17000" />
+      <workItem from="1583312384966" duration="76000" />
+      <workItem from="1583369115479" duration="4031000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
