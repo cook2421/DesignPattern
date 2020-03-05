@@ -1,7 +1,7 @@
 package BehavioralPattern.TemplateMethod.Solution.Inheritance;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
-import BehavioralPattern.TemplateMethod.Context.Door;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Door;
 
 public class Client {
     public static void main(String[] args) {

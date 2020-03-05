@@ -1,8 +1,8 @@
 package CreationalPattern.AbstractFactory.Context;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
-import BehavioralPattern.TemplateMethod.Context.Enums.DoorStatus;
-import BehavioralPattern.TemplateMethod.Context.Enums.MotorStatus;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.DoorStatus;
+import BehavioralPattern.TemplateMethod.Problem.Enums.MotorStatus;
 
 public abstract class Motor {
     protected Door door;

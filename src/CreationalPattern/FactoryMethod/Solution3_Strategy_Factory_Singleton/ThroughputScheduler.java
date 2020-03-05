@@ -1,6 +1,6 @@
 package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 /* 싱글턴 패턴으로 구현한 ThroughputScheduler 클래스 */
 public class ThroughputScheduler implements ElevatorScheduler {

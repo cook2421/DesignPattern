@@ -1,6 +1,6 @@
 package CreationalPattern.FactoryMethod.Solution2_Strategy_Factory;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 public class Client {
     public static void main(String[] args) {

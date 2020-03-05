@@ -1,4 +1,4 @@
-package CreationalPattern.FactoryMethod.Context;
+package CreationalPattern.FactoryMethod.Problem;
 
 public class ElevatorController {
     private int id;         // 엘리베이터 ID

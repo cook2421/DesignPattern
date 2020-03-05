@@ -1,6 +1,6 @@
-package CreationalPattern.FactoryMethod.Context;
+package CreationalPattern.FactoryMethod.Problem;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,7 +17,7 @@ public class ElevatorManager {
         controllers = new ArrayList<>(controllerCount);
 
         for(int i=0; i<controllerCount; i++){
-            ElevatorController controller = new ElevatorController(i);
+            ElevatorController controller = new ElevatorController(i + 1);
             controllers.add(controller);
         }
 
@@ -28,6 +28,7 @@ public class ElevatorManager {
 
     /* 요청에 따라 엘리베이터를 선택하고 이동시킴 */
     void requestElevator(int destination, Direction direction){
+
         // ThroughputScheduler를 이용해 엘리베이터를 선택함
         int selectedElevator = scheduler.selectElevator(this, destination, direction);
 

@@ -1,7 +1,7 @@
 package CreationalPattern.FactoryMethod.Solution4_Inheritance;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
-import CreationalPattern.FactoryMethod.Context.ElevatorController;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import CreationalPattern.FactoryMethod.Problem.ElevatorController;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,18 +11,18 @@ public abstract class ElevatorManager {
 
     private List<ElevatorController> controllers;
 
+
     // 주어진 수만큼의 ElevatorController를 생성함
     public ElevatorManager(int controllerCount){
         // 엘리베이터의 이동을 책임지는 ElevatorController 객체 생성
-        controllers = new ArrayList<ElevatorController>(controllerCount);
+        controllers = new ArrayList<>(controllerCount);
+
         for(int i=0; i<controllerCount; i++){
             ElevatorController controller = new ElevatorController(i + 1);
             controllers.add(controller);
         }
     }
 
-    // 팩토리 메서드: 스케줄링 전략 객체를 생성하는 기능 제공
-    protected abstract ElevatorScheduler getScheduler();
 
     // 템플릿 메서드: 요청에 따라 엘리베이터를 선택하고 이동시킴
     void requestElevator(int destination, Direction direction){
@@ -32,7 +32,12 @@ public abstract class ElevatorManager {
 
         // 주어진 전략에 따라 엘리베이터를 선택함
         int selectedElevator = scheduler.selectElevator(this, destination, direction);
+
         // 선택된 엘리베이터를 이동시킴
         controllers.get(selectedElevator).gotoFloor(destination);
     }
+
+
+    // 팩토리 메서드: 스케줄링 전략 객체를 생성하는 기능 제공
+    protected abstract ElevatorScheduler getScheduler();
 }

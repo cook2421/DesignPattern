@@ -1,6 +1,6 @@
 package CreationalPattern.FactoryMethod.Solution1_Strategy;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 public class ResponseTimeScheduler implements ElevatorScheduler{
 

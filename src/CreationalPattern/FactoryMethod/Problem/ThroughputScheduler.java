@@ -1,6 +1,6 @@
-package CreationalPattern.FactoryMethod.Context;
+package CreationalPattern.FactoryMethod.Problem;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 public class ThroughputScheduler {
     public int selectElevator(ElevatorManager manager, int destination, Direction direction){

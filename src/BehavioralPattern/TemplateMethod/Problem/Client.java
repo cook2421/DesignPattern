@@ -1,6 +1,6 @@
-package BehavioralPattern.TemplateMethod.Context;
+package BehavioralPattern.TemplateMethod.Problem;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 public class Client {
     public static void main(String[] args) {
