@@ -1,6 +1,7 @@
-package CreationalPattern.FactoryMethod.Solution1_Strategy;
+package CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.ElevatorManager;
 
 public class ThroughputScheduler implements ElevatorScheduler{
 

@@ -1,6 +1,7 @@
-package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton;
+package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.ElevatorManager;
 
 /* 싱글턴 패턴으로 구현한 ResponseTimeScheduler 클래스 */
 public class ResponseTimeScheduler implements ElevatorScheduler {

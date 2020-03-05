@@ -1,6 +1,6 @@
-package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton;
+package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler;
 
-import CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.SchedulingStrategyID;
+import CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.Scheduler.SchedulingStrategyID;
 
 import java.util.Calendar;
 

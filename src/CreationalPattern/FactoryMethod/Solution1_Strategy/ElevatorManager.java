@@ -2,6 +2,9 @@ package CreationalPattern.FactoryMethod.Solution1_Strategy;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 import CreationalPattern.FactoryMethod.Problem.ElevatorController;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ElevatorScheduler;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ResponseTimeScheduler;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ThroughputScheduler;
 
 import java.util.ArrayList;
 import java.util.Calendar;

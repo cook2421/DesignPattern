@@ -2,7 +2,9 @@ package CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 import CreationalPattern.FactoryMethod.Problem.ElevatorController;
-import CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.SchedulingStrategyID;
+import CreationalPattern.FactoryMethod.Solution2_Strategy_Factory.Scheduler.SchedulingStrategyID;
+import CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler.ElevatorScheduler;
+import CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler.SchedulerFactory;
 
 import java.util.ArrayList;
 import java.util.List;
