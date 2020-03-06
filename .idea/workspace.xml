@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Enums/Direction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/DoorStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Enums/DoorStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/HyundaiMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/HyundaiMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/MotorStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Context/Enums/MotorStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/HyundaiMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/HyundaiMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/LGMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/LGMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Context/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Context/ThroughputScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ResponseTimeScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ResponseTimeScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution1_Strategy/ThroughputScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ResponseTimeScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ResponseTimeScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ThroughputScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ResponseTimeScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ResponseTimeScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ThroughputScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ElevatorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ElevatorScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ElevatorScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ResponseTimeScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ResponseTimeScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/FactoryMethod/Solution4_Inheritance/ThroughputScheduler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/config-file" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -230,6 +196,10 @@
       <workItem from="1582721544725" duration="7781000" />
       <workItem from="1582773048582" duration="3773000" />
       <workItem from="1582858504199" duration="7491000" />
+      <workItem from="1583158592284" duration="1169000" />
+      <workItem from="1583327595852" duration="4000" />
+      <workItem from="1583329795801" duration="47000" />
+      <workItem from="1583330897336" duration="814000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
