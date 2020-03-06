@@ -1,7 +1,7 @@
 package BehavioralPattern.TemplateMethod.Solution.Inheritance;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
-import BehavioralPattern.TemplateMethod.Context.Door;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Door;
 
 /* Motor를 상속받아 HyundaiMotor클래스를 구현 */
 public class HyundaiMotor extends Motor {

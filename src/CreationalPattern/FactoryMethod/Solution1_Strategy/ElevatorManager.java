@@ -1,31 +1,38 @@
 package CreationalPattern.FactoryMethod.Solution1_Strategy;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
-import CreationalPattern.FactoryMethod.Context.ElevatorController;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
+import CreationalPattern.FactoryMethod.Problem.ElevatorController;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ElevatorScheduler;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ResponseTimeScheduler;
+import CreationalPattern.FactoryMethod.Solution1_Strategy.Scheduler.ThroughputScheduler;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
 public class ElevatorManager {
+
     private List<ElevatorController> controllers;
+
 
     /* 주어진 수만큼의 ElevatorController를 생성함 */
     public ElevatorManager(int controllerCount){
         // 엘리베이터의 이동을 책임지는 ElevatorController 객체 생성
-        controllers = new ArrayList<ElevatorController>(controllerCount);
+        controllers = new ArrayList<>(controllerCount);
+
         for(int i=0; i<controllerCount; i++){
             ElevatorController controller = new ElevatorController(i + 1);  // 변경
             controllers.add(controller);
         }
     }
 
+
     // 요청에 따라 엘리베이터를 선택하고 이동시킴
     void requestElevator(int destination, Direction direction){
         ElevatorScheduler scheduler;    // 인터페이스
 
         // 0..23
-        int hour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY  );
+        int hour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY);
 
         // 오전에는 ResponseTimeScheduler, 오후에는 ThroughputScheduler
         if(hour < 12){

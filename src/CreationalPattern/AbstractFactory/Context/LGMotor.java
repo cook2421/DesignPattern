@@ -1,6 +1,6 @@
 package CreationalPattern.AbstractFactory.Context;
 
-import BehavioralPattern.TemplateMethod.Context.Enums.Direction;
+import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
 public class LGMotor extends Motor {
 
