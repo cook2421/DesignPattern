@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoF 디자인 패턴" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/관계" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/추상화" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/캡슐화" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Decorator_Pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatternEx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -103,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client1" />
       <module name="DesignPattern" />
@@ -122,19 +140,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CreationalPattern.FactoryMethod.Solution3_Strategy_Factory_Singleton.Scheduler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,7 +201,8 @@
       <workItem from="1583369115479" duration="12187000" />
       <workItem from="1583671394797" duration="6262000" />
       <workItem from="1583741134320" duration="4819000" />
-      <workItem from="1583749508320" duration="346000" />
+      <workItem from="1583749508320" duration="965000" />
+      <workItem from="1583757103336" duration="3028000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
