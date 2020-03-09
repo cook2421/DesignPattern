@@ -2,7 +2,6 @@ package CreationalPattern.AbstractFactory.Solution2_AbstractFactory_Singleton;
 
 import CreationalPattern.AbstractFactory.Problem.Door;
 import CreationalPattern.AbstractFactory.Problem.Motor;
-import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.ElevatorFactory;
 import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.SamsungDoor;
 import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.SamsungMotor;
 

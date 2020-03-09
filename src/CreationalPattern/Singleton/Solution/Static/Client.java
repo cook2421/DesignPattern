@@ -1,4 +1,4 @@
-package CreationalPattern.Singleton.Solution.static_class;
+package CreationalPattern.Singleton.Solution.Static;
 
 public class Client {
 

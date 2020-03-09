@@ -1,6 +1,7 @@
-package CreationalPattern.Singleton.Solution.Enum_class;
+package CreationalPattern.Singleton.Solution.Enums;
 
 public enum SingletonTest {
+
     INSTANCE;
 
     public static SingletonTest getInstance(){

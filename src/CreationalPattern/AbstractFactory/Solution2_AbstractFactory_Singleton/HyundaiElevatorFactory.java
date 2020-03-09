@@ -4,7 +4,6 @@ import CreationalPattern.AbstractFactory.Problem.Door;
 import CreationalPattern.AbstractFactory.Problem.HyundaiDoor;
 import CreationalPattern.AbstractFactory.Problem.HyundaiMotor;
 import CreationalPattern.AbstractFactory.Problem.Motor;
-import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.ElevatorFactory;
 
 public class HyundaiElevatorFactory extends ElevatorFactory {
 

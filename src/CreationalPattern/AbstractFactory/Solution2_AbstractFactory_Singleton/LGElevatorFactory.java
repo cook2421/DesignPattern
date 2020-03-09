@@ -4,7 +4,6 @@ import CreationalPattern.AbstractFactory.Problem.Door;
 import CreationalPattern.AbstractFactory.Problem.LGDoor;
 import CreationalPattern.AbstractFactory.Problem.LGMotor;
 import CreationalPattern.AbstractFactory.Problem.Motor;
-import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.ElevatorFactory;
 
 public class LGElevatorFactory extends ElevatorFactory {
 

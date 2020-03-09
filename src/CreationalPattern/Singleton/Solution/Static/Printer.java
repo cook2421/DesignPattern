@@ -1,6 +1,7 @@
-package CreationalPattern.Singleton.Solution.static_class;
+package CreationalPattern.Singleton.Solution.Static;
 
 public class Printer {
+
     private static int counter = 0;
 
     // 메서드 동기화 (임계 구역)
