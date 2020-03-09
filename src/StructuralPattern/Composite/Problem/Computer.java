@@ -6,6 +6,7 @@ public class Computer {
     private Monitor monitor;
     private Speaker speaker;  // 추가
 
+
     public void addKeyboard(Keyboard keyboard) {
         this.keyboard = keyboard;
     }
@@ -19,6 +20,7 @@ public class Computer {
     }
 
     public void addSpeaker(Speaker speaker) { this.speaker = speaker; }  // 추가
+
 
     public int getPrice() {
         int keyboardPrice = keyboard.getPrice();

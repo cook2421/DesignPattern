@@ -4,7 +4,6 @@ import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 import CreationalPattern.AbstractFactory.Problem.Door;
 import CreationalPattern.AbstractFactory.Problem.Motor;
 import CreationalPattern.AbstractFactory.Problem.VendorID;
-import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.ElevatorFactory;
 
 public class Client {
     public static void main(String[] args) {
