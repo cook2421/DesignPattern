@@ -2,6 +2,7 @@ package StructuralPattern.Decorator.Solution;
 
 public class Client1 {
     public static void main(String[] args) {
+
         Display road = new RoadDisplay();
         road.draw();    // 기본 도로 표시
 
