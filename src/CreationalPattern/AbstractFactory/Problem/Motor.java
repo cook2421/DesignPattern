@@ -1,4 +1,4 @@
-package CreationalPattern.AbstractFactory.Context;
+package CreationalPattern.AbstractFactory.Problem;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 import BehavioralPattern.TemplateMethod.Problem.Enums.DoorStatus;

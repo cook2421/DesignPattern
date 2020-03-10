@@ -1,10 +1,10 @@
-package CreationalPattern.AbstractFactory.Context;
+package CreationalPattern.AbstractFactory.Problem;
 
 import BehavioralPattern.TemplateMethod.Problem.Enums.Direction;
 
-public class HyundaiMotor extends Motor {
+public class LGMotor extends Motor {
 
-    public HyundaiMotor(Door door) {
+    public LGMotor(Door door) {
         super(door);
     }
 

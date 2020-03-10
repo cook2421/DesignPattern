@@ -1,4 +1,4 @@
-package CreationalPattern.AbstractFactory.Context;
+package CreationalPattern.AbstractFactory.Problem;
 
 public class LGDoor extends Door {
     @Override
