@@ -5,15 +5,19 @@ import BehavioralPattern.TemplateMethod.Problem.Enums.DoorStatus;
 import BehavioralPattern.TemplateMethod.Problem.Enums.MotorStatus;
 
 public abstract class Motor {
-    protected Door door;
-    private MotorStatus motorStatus;  // 공통2. motorStatus 필드
 
-    public Motor(Door door) {  // 공통1. Door 클래스와의 연관관계
-        this.door = door;
+    private Door door;
+    private MotorStatus motorStatus;
+
+
+    public Motor() {
         motorStatus = MotorStatus.STOPPED;
     }
 
-    // 공통3. setMotorStatus, getMotorStatus 메서드
+    public void setDoor(Door door) {
+        this.door = door;
+    }
+
     protected void setMotorStatus(MotorStatus motorStatus){
         this.motorStatus = motorStatus;
     }
@@ -21,8 +25,6 @@ public abstract class Motor {
         return motorStatus;
     }
 
-
-    // HyundaiMotor와 LGMotor의 move메서드에서 공통되는 부분만을 가짐
     public void move(Direction direction){
         MotorStatus motorStatus = getMotorStatus();
 

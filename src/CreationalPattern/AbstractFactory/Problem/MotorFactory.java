@@ -1,19 +1,18 @@
 package CreationalPattern.AbstractFactory.Problem;
 
-public class MotorFactory {
+public class MotorFactory {     // 팩토리 메서드 패턴을 사용함
 
     // vendorID에 따라 LGMotor 또는 HyundaiMotor 객체를 생성함
     public static Motor createMotor(VendorID vendorID){
 
         Motor motor = null;
-        Door door = null;
 
         switch (vendorID){
             case LG:
-                motor = new LGMotor(door);
+                motor = new LGMotor();
                 break;
             case HYUNDAI:
-                motor = new HyundaiMotor(door);
+                motor = new HyundaiMotor();
                 break;
         }
 
