@@ -7,12 +7,17 @@ public class Printer {
 
     private int counter = 0;
 
-    private Printer(){}
-
     // 인스턴스를 만드는 메서드 동기화 (임계 구역)
     public synchronized static Printer getPrinter(){
+        // 조건 검사 구문 (문제의 원인!!)
         if(printer == null){
-            printer = new Printer();    // Printer 인스턴스 생성
+            try{
+                // 스레드 스케줄링 변경(스레드 실행 1ms동안 정지)
+                Thread.sleep(1);
+            } catch (InterruptedException e) {}
+
+            // Printer 인스턴스 생성
+            printer = new Printer();
         }
         return printer;
     }

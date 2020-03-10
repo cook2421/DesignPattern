@@ -2,17 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/BallFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/BlueDrawStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/DiagonalMoveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/DirectionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/DrawStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/HorizonalMoveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/RedDrawStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/VerticalMoveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/Eager_Initialization/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/Eager_Initialization/UserThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/UserThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Atom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Atom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/AttackStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/AttackStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/FlyingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/FlyingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MissileStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MissileStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MovingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/MovingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/PunchStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/PunchStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/TaekwonV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/TaekwonV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/WalkingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/Strategy/Solution/WalkingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/HyundaiMotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/LGMotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/BehavioralPattern/TemplateMethod/Solution/Inheritance/Motor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution1_Strategy/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution2_Strategy_Factory/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/FactoryMethod/Solution3_Strategy_Factory_Singleton/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Eager_Initialization/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Eager_Initialization/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/Solution_doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Synchronized/BasicSynchronization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/CreationalPattern/Singleton/Synchronized/BasicSynchronization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Problem/VendorID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Problem/VendorID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/Solution_doc" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/Solution" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/Singleton/Solution/ThreadSafe_Initialization/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/캡슐화" beforeDir="false" afterPath="$PROJECT_DIR$/src/캡슐화" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +68,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatternEx" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization" />
+      <recent name="CreationalPattern.Singleton.Solution.Enums" />
+      <recent name="CreationalPattern.Singleton.Solution.Eager_Initialization" />
       <recent name="BehavioralPattern.State.Solution" />
       <recent name="BehavioralPattern.State.Problem" />
-      <recent name="CreationalPattern.AbstractFactory.Context" />
-      <recent name="CreationalPattern.FactoryMethod.Solution4_Inheritance" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2" />
@@ -72,11 +101,24 @@
   </component>
   <component name="RunManager" selected="Application.Client (1)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Strategy.Ex1.Client" />
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Command.Problem.Alarm.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Strategy.Ex1.*" />
+          <option name="PATTERN" value="BehavioralPattern.Command.Problem.Alarm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.Eager_Initialization.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.Eager_Initialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,38 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Problem.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Decorator.Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.AbstractFactory.Problem.Client" />
+      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPattern.AbstractFactory.Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Solution.Client1" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralPattern.Decorator.Solution.*" />
+          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,6 +178,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (2)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
