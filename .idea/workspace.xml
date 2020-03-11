@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/객체지향 설계 지식/SOLID/LSP" beforeDir="false" afterPath="$PROJECT_DIR$/src/객체지향 설계 지식/SOLID/LSP" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +30,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycleBO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/batch" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DesignPattern\src\BehavioralPattern\Strategy" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization" />
       <recent name="CreationalPattern.Singleton.Solution.Enums" />
@@ -179,6 +181,7 @@
       <workItem from="1583311846731" duration="110000" />
       <workItem from="1583312317240" duration="17000" />
       <workItem from="1583312384966" duration="76000" />
+      <workItem from="1583885572382" duration="1698000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
