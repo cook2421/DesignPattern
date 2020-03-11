@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/BookDiscountPricePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/MemberDiscountPricePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/OrdinaryPricePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/PricePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Ex1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Ex1/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Composite/Ex1/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/BasicEMailContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/EMailContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/EMailContentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/ExternalEMailContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex1/SecureEMailContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/AirBagDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/BasicCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/CarComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/CarOptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/ESCDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/NaviDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/Requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Ex2/SCCDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Requirements" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Requirements" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tricycle/version/batch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/StructuralPattern/Decorator" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -58,6 +66,7 @@
       <recent name="BehavioralPattern.State.Problem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DesignPattern\src\StructuralPattern\Decorator" />
       <recent name="D:\DesignPattern\src\BehavioralPattern\Strategy" />
     </key>
   </component>
@@ -73,13 +82,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Command.Problem.Alarm.Client" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Ex1.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BehavioralPattern.Command.Problem.Alarm.*" />
+          <option name="PATTERN" value="StructuralPattern.Decorator.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.Static.Client" />
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Decorator.Ex2.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.Static.*" />
+          <option name="PATTERN" value="StructuralPattern.Decorator.Ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +136,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization.Client" />
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Composite.Ex1.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization.*" />
+          <option name="PATTERN" value="StructuralPattern.Composite.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +199,7 @@
       <workItem from="1583311846731" duration="110000" />
       <workItem from="1583312317240" duration="17000" />
       <workItem from="1583312384966" duration="76000" />
-      <workItem from="1583885572382" duration="2731000" />
+      <workItem from="1583885572382" duration="12370000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
