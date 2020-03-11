@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/BookDiscountPricePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/MemberDiscountPricePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/OrdinaryPricePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/PricePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Rental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Requirements" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2/Requirements" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +43,12 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DesignPattern\src\BehavioralPattern\Strategy\Ex2" />
       <recent name="D:\DesignPattern\src\BehavioralPattern\Strategy" />
+      <recent name="D:\DesignPattern\src\객체지향 설계 지식\SOLID" />
+      <recent name="D:\DesignPattern\src\객체지향 설계 지식" />
+      <recent name="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CreationalPattern.Singleton.Solution.ThreadSafe_Initialization" />
@@ -44,12 +57,8 @@
       <recent name="BehavioralPattern.State.Solution" />
       <recent name="BehavioralPattern.State.Problem" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\DesignPattern\src\객체지향 설계 지식\SOLID" />
-      <recent name="D:\DesignPattern\src\객체지향 설계 지식" />
-      <recent name="$PROJECT_DIR$/src/BehavioralPattern/Strategy/Ex2" />
-      <recent name="C:\Users\cooks\Downloads\DesignPattern\src\CreationalPattern\AbstractFactory" />
-      <recent name="$PROJECT_DIR$/src/BehavioralPattern/Observer/Solution" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DesignPattern\src\BehavioralPattern\Strategy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Command.Problem.Alarm.Client" />
       <module name="DesignPattern" />
@@ -78,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPattern.Singleton.Solution.Eager_Initialization.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.Solution.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPattern.Singleton.Solution.Eager_Initialization.*" />
+          <option name="PATTERN" value="BehavioralPattern.State.Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.Solution.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Strategy.Ex2.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BehavioralPattern.State.Solution.*" />
+          <option name="PATTERN" value="BehavioralPattern.Strategy.Ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +190,7 @@
       <workItem from="1583311846731" duration="110000" />
       <workItem from="1583312317240" duration="17000" />
       <workItem from="1583312384966" duration="76000" />
-      <workItem from="1583885572382" duration="1698000" />
+      <workItem from="1583885572382" duration="2731000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
