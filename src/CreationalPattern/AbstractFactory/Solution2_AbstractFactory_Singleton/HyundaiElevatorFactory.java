@@ -7,7 +7,7 @@ import CreationalPattern.AbstractFactory.Problem.Motor;
 
 public class HyundaiElevatorFactory extends ElevatorFactory {
 
-    private static ElevatorFactory factory;
+    private static ElevatorFactory factory = null;
 
 
     public static ElevatorFactory getInstance(){

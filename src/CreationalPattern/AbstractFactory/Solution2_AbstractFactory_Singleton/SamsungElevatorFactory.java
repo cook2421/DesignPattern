@@ -7,7 +7,7 @@ import CreationalPattern.AbstractFactory.Solution1_AbstractFactory.SamsungMotor;
 
 public class SamsungElevatorFactory extends ElevatorFactory {
 
-    private static ElevatorFactory factory;
+    private static ElevatorFactory factory = null;
 
 
     public static ElevatorFactory getInstance(){
