@@ -1,6 +1,6 @@
 package StructuralPattern.Decorator.Solution;
 
-/* 다양한 추가 기능에 대한 공통 클래 */
+/* 다양한 추가 기능에 대한 공통 클래스 */
 public abstract class DisplayDecorator extends Display {
 
     private Display decoratedDisplay;

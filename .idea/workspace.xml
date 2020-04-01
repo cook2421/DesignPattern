@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d60fd-3357-4c14-ab57-2534856b1860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Facade-Pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Problem/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Problem/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Problem/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Problem/Problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Problem/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Solution/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPattern/Facade/Solution/Facade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/HyundaiElevatorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/HyundaiElevatorFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/LGElevatorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/LGElevatorFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/SamsungElevatorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreationalPattern/AbstractFactory/Solution2_AbstractFactory_Singleton/SamsungElevatorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/Client3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/DisplayDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralPattern/Decorator/Solution/DisplayDecorator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +190,7 @@
       <workItem from="1583904259734" duration="26000" />
       <workItem from="1583906825893" duration="630000" />
       <workItem from="1584079132089" duration="1790000" />
-      <workItem from="1585702505207" duration="1739000" />
+      <workItem from="1585702505207" duration="5187000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
